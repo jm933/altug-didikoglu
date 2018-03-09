@@ -2,3 +2,5 @@ conversion functions needed:
 
 -dollars to cent
 -gallons to liter
+-new column
+-degree to radian
