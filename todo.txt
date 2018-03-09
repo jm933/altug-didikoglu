@@ -1,0 +1,4 @@
+conversion functions needed:
+
+-dollars to cent
+-gallons to liter
